@@ -1,7 +1,7 @@
 # insights_ecommerce_dataset_olist
 Attempt to do an ecommerce Olist dataset exploratory to extract insights
 
-**LINK para os detalhes do dataset utilizado
+**LINK para os detalhes do dataset utilizado  
 https://www.kaggle.com/olistbr/brazilian-ecommerce**
 
 
